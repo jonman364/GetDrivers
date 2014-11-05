@@ -1,0 +1,4 @@
+[submodule "SharpZipLib"]
+	path = SharpZipLib
+	url = https://github.com/icsharpcode/SharpZipLib.git
+	ignore = dirty
